@@ -4,6 +4,8 @@
 
 # 실행 방법
 
+**본 프로젝트는 Mac 환경에서 동작합니다.**
+
 GNU make 사용해 make
 ```bash
   make
@@ -12,7 +14,6 @@ configuration file .conf 확장자로 지정하여 conf 디렉토리에 작성 �
 ```bash
   ./webserv <Configuration-file-name>.conf
 ```
-"본 프로젝트는 Mac 환경에서 동작합니다."
 # Conf 파일 작성법
 
 ## Server block
